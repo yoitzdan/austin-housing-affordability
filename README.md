@@ -2,10 +2,6 @@
 
 An end-to-end data analytics project examining housing affordability in Austin compared with Dallas, Houston, and San Antonio from 2015–2024.
 
-## 📊 Dashboard
-
-![Texas Housing Affordability Dashboard](housing_dashboard.png)
-
 ## 🎯 Project Objective
 
 How has housing affordability in Austin changed relative to income, rent, mortgage rates, and local economic conditions?
