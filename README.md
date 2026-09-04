@@ -4,7 +4,7 @@ An end-to-end data analytics project examining housing affordability in Austin c
 
 ## 📊 Dashboard
 
-*Power BI dashboard preview will be added here.*
+![Texas Housing Affordability Dashboard](housing_dashboard.png)
 
 ## 🎯 Project Objective
 
